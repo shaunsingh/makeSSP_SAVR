@@ -1,4 +1,4 @@
-# makeSSP_SAVR
+# SAVR
 A Chrome extension designed to reduce screen stress
 
 Designed for the makeSSP hackathon
