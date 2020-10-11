@@ -2,7 +2,7 @@
 
 ## Project by [S]haurya Singh, [A]brahim Mahmud, [V]enya Goyal, and [R]ia Gray
 
-A Chrome extension designed to reduce screen stress
+A Chrome extension designed to reduce screen-related stress
 
 Designed for the makeSSP hackathon
 
