@@ -1,12 +1,13 @@
 # SAVR
+
+## Project by [S]haurya Singh, [A]brahim Mahmud, [V]enya Goyal, and [R]ia Gray
+
 A Chrome extension designed to reduce screen stress
 
 Designed for the makeSSP hackathon
 
 Known Issue: The extension will give you an error when using the 6 seconds option
 This is an issue with the notification API, the extention will still work as intended 
-
-## Project by Shaurya, Abrahim, Venya, and Ria
 
 Built using Html, CSS, and JavaScript
 
