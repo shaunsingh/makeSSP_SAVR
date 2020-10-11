@@ -7,7 +7,7 @@ This is an issue with the notification API, the extention will still work as int
 
 Built using Html, CSS, and JavaScript
 
-More Information: https://makespp.venya1.repl.co/?
+More Information: https://makespp-savr.netlify.app/
 
 Lets you 
  - Make reminders (6, 15, or 30 minutes) that set a motivational alarm
