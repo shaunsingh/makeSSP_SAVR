@@ -1,5 +1,6 @@
 # makeSSP_SAVR
 A Chrome extension designed to reduce screen stress
+
 Designed for the makeSSP hackathon
 
 Known Issue: The extension will give you an error when using the 6 seconds option
