@@ -6,7 +6,7 @@ Designed for the makeSSP hackathon
 Known Issue: The extension will give you an error when using the 6 seconds option
 This is an issue with the notification API, the extention will still work as intended 
 
-Made with love by Shaurya, Abrahim, Venya, and Ria
+Project by Shaurya, Abrahim, Venya, and Ria
 
 Built using Html, CSS, and JavaScript
 
