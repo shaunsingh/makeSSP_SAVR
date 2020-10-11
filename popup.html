@@ -1,0 +1,47 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Water Popup</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <style>
+      body {
+        text-align: center;
+      }
+
+      #hydrateImage {
+        width: 100px;
+        margin: 5px;
+      }
+
+      button {
+        margin: 5px;
+        outline: none;
+      }
+
+      button:hover {
+        outline: #80DEEA thick;
+      }
+    </style>
+    <!--
+      - JavaScript and HTML must be in separate files: see our Content Security
+      - Policy documentation[1] for details and explanation.
+      -
+      - [1]: https://developer.chrome.com/extensions/contentSecurityPolicy
+     -->
+     <div class = "box"
+  </head>
+  <body>
+      <img src='./128.png' id='googleImage'>
+      <!-- An Alarm delay of less than the minimum 1 minute will fire
+      in approximately 1 minute incriments if released -->
+      <button id='6sec' value='0.1'>6 seconds</button>
+      <button id='15min' value='15'>15 Minutes</button>
+      <button id='30min' value='30'>30 Minutes</button>
+      <button id='cancelAlarm'>Cancel Alarm</button>
+      <a href="https://makespp.venya1.repl.co/?" class="button">Go to Site</a>
+      <a href="https://mrazhar101.wixsite.com/greenscreen" class="button">Green Screen</a>
+    </div>
+   <!-- link to non-persistent background script -->
+   <script src="popup.js"></script>
+  </body>
+</html>
