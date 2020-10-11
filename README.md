@@ -2,6 +2,9 @@
 A Chrome extension designed to reduce screen stress
 Designed for the makeSSP hackathon
 
+Known Issue: The extension will give you an error when using the 6 seconds option
+This is an issue with the notification API, the extention will still work as intended 
+
 Built using Html, CSS, and JavaScript
 
 More Information: https://makespp.venya1.repl.co/?
